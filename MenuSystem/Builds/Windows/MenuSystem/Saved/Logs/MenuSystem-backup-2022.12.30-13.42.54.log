@@ -1,0 +1,1519 @@
+﻿Log file open, 12/30/22 10:41:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogCore: Display: UnrealTraceServer: Unable to launch the trace store with '"../../../Engine//Binaries/Win64/UnrealTraceServer.exe" fork' (00000002)
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" MenuSystem""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="53bf2b504c89452f0db87e94e419c58a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogIoDispatcher: Display: Reading toc: ../../../MenuSystem/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../MenuSystem/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../MenuSystem/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../MenuSystem/Content/Paks/MenuSystem-Windows.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../MenuSystem/Content/Paks/MenuSystem-Windows.pak.
+LogIoDispatcher: Display: Reading toc: ../../../MenuSystem/Content/Paks/MenuSystem-Windows.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../MenuSystem/Content/Paks/MenuSystem-Windows.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../MenuSystem/Content/Paks/MenuSystem-Windows.utoc"
+LogPakFile: Display: Mounted Pak file '../../../MenuSystem/Content/Paks/MenuSystem-Windows.pak', mount point: '../../../'
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.068923
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B8327B7B43E4201FB05606976D562C72
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: Steam
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Steam]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2364] (), CPU: Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul  7 2022 02:24:55
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Projetos - WILL/Multiplayer/MenuSystem/Builds/Windows/MenuSystem/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 36
+LogDevObjectVersion:   Dev-ControlRig (A7820CFB-20A7-4359-8C54-2C149623CF50): 13
+LogDevObjectVersion:   Dev-IKRig (F6DFBB78-BB50-A0E4-4018-B84D60CBAF23): 0
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.30-13.41.47:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.30-13.41.47:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.30-13.41.47:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.30-13.41.47:830][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.30-13.41.47:831][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.30-13.41.47:834][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.30-13.41.47:835][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.30-13.41.47:835][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.30-13.41.47:835][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.30-13.41.47:835][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.30-13.41.47:882][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.30-13.41.47:882][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.30-13.41.47:998][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.30-13.41.47:998][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 16338MB of shared system memory, 1 output[s]
+[2022.12.30-13.41.48:003][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.30-13.41.48:003][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16338MB of shared system memory, 0 output[s]
+[2022.12.30-13.41.48:003][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.30-13.41.48:003][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.30-13.41.48:003][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.30-13.41.48:003][  0]LogHAL: Display: Platform has ~ 32 GB [34263367680 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.30-13.41.48:003][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.30-13.41.48:003][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.30-13.41.48:003][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.30-13.41.48:003][  0]LogInit: Computer: MILENINHAZEROBA
+[2022.12.30-13.41.48:003][  0]LogInit: User: joãovictor
+[2022.12.30-13.41.48:003][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.30-13.41.48:003][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.30-13.41.48:003][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.12.30-13.41.48:003][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.30-13.41.48:003][  0]LogMemory: Process Physical Memory: 179.08 MB used, 192.81 MB peak
+[2022.12.30-13.41.48:003][  0]LogMemory: Process Virtual Memory: 146.98 MB used, 146.98 MB peak
+[2022.12.30-13.41.48:003][  0]LogMemory: Physical Memory: 14280.49 MB used,  18395.60 MB free, 32676.09 MB total
+[2022.12.30-13.41.48:003][  0]LogMemory: Virtual Memory: 20184.93 MB used,  12491.16 MB free, 32676.09 MB total
+[2022.12.30-13.41.48:003][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.30-13.41.48:006][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.30-13.41.48:006][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.30-13.41.48:007][  0]LogInit: Using OS detected language (pt-BR).
+[2022.12.30-13.41.48:007][  0]LogInit: Using OS detected locale (pt-BR).
+[2022.12.30-13.41.48:007][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the language.
+[2022.12.30-13.41.48:007][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the locale.
+[2022.12.30-13.41.48:028][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.30-13.41.48:028][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.12.30-13.41.48:028][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.12.30-13.41.48:035][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.30-13.41.48:035][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.30-13.41.48:042][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.30-13.41.48:046][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.30-13.41.48:046][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.30-13.41.48:118][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.30-13.41.48:165][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.30-13.41.48:171][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.30-13.41.48:183][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.30-13.41.48:194][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.30-13.41.48:194][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.30-13.41.48:195][  0]LogD3D12RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.30-13.41.48:195][  0]LogWindows: Attached monitors:
+[2022.12.30-13.41.48:195][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.12.30-13.41.48:195][  0]LogWindows: Found 1 attached monitors.
+[2022.12.30-13.41.48:195][  0]LogWindows: EnumDisplayDevices:
+[2022.12.30-13.41.48:195][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.12.30-13.41.48:195][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.12.30-13.41.48:196][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.30-13.41.48:196][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.12.30-13.41.48:196][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.30-13.41.48:196][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.12.30-13.41.48:196][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.12.30-13.41.48:196][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.12.30-13.41.48:196][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2022.12.30-13.41.48:196][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.30-13.41.48:196][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.30-13.41.48:203][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.30-13.41.48:207][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.30-13.41.48:207][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library Global. Total 4119 unique shaders.
+[2022.12.30-13.41.48:207][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.12.30-13.41.48:207][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.12.30-13.41.48:208][  0]LogTemp: Display: Clearing the OS Cache
+[2022.12.30-13.41.48:217][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.30-13.41.48:217][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.30-13.41.48:251][  0]LogShaderLibrary: Display: Using IoDispatcher for shader code library MenuSystem. Total 2728 unique shaders.
+[2022.12.30-13.41.48:251][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MenuSystem
+[2022.12.30-13.41.48:251][  0]LogShaderLibrary: Display: Logical shader library 'MenuSystem' has been created, components 1
+[2022.12.30-13.41.48:251][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.12.30-13.41.48:251][  0]LogRHI: Base name for record PSOs is ../../../MenuSystem/Saved/CollectedPSOs/++UE5+Release-5.0-CL-20979098-MenuSystem_PCD3D_SM5_DE44D663402A02D45DA1B58DF31BF5AE.rec.upipelinecache
+[2022.12.30-13.41.48:251][  0]LogRHI: Could not open FPipelineCacheFile: ../../../MenuSystem/Content/PipelineCaches/Windows/MenuSystem_PCD3D_SM5.upipelinecache
+[2022.12.30-13.41.48:251][  0]LogRHI: Display: Failed to open default shader pipeline cache for MenuSystem using shader platform 0.
+[2022.12.30-13.41.48:251][  0]LogRHI: Base name for record PSOs is ../../../MenuSystem/Saved/CollectedPSOs/++UE5+Release-5.0-CL-20979098-MenuSystem_PCD3D_SM5_50DFAB50468875356527DBB6FDC0B38E.rec.upipelinecache
+[2022.12.30-13.41.48:252][  0]LogRHI: Could not open FPipelineCacheFile: ../../../MenuSystem/Content/PipelineCaches/Windows/MenuSystem_PCD3D_SM5.upipelinecache
+[2022.12.30-13.41.48:252][  0]LogRHI: Display: Failed to open default shader pipeline cache for MenuSystem using shader platform 0.
+[2022.12.30-13.41.48:252][  0]LogInit: Using OS detected language (pt-BR).
+[2022.12.30-13.41.48:252][  0]LogInit: Using OS detected locale (pt-BR).
+[2022.12.30-13.41.48:252][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the language.
+[2022.12.30-13.41.48:252][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the locale.
+[2022.12.30-13.41.48:252][  0]LogAssetRegistry: FAssetRegistry took 0.0005 seconds to start up
+[2022.12.30-13.41.48:318][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.12.30-13.41.48:319][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.30-13.41.48:319][  0]LogDeviceProfileManager: Active device profile: [0000023962231300][000002393D0B9D90 50] Windows
+[2022.12.30-13.41.48:319][  0]LogDeviceProfileManager: Profiles: [0000023962231300][000002393D0B9D90 50] Windows, 
+[2022.12.30-13.41.48:319][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="Windows"
+[2022.12.30-13.41.48:329][  0]LogNetVersion: MenuSystem 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4150556124)
+[2022.12.30-13.41.48:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.30-13.41.48:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.30-13.41.48:354][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.000043 seconds
+[2022.12.30-13.41.48:361][  0]LogMoviePlayer: Initializing movie player
+[2022.12.30-13.41.48:362][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 970056DC43CA07F38164B3AFF45D4778 | Instance: 80FB15084A3B2D633C3A07A9BA061F6F (MILENINHAZEROBA-21352).
+[2022.12.30-13.41.48:363][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.30-13.41.48:368][  0]LogUObjectArray: 17657 objects as part of root set at end of initial load.
+[2022.12.30-13.41.48:368][  0]LogUObjectArray: 46 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.12.30-13.41.48:368][  0]LogUObjectAllocator: 3959584 out of 0 bytes used by permanent object pool.
+[2022.12.30-13.41.48:368][  0]LogUObjectArray: CloseDisregardForGC: 17657/17657 objects in disregard for GC pool
+[2022.12.30-13.41.48:368][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+[2022.12.30-13.41.48:368][  0]LogEngine: Initializing Engine...
+[2022.12.30-13.41.48:369][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.30-13.41.48:385][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 17173 script object entries in 471.18 KB
+[2022.12.30-13.41.48:385][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.30-13.41.48:385][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.30-13.41.48:385][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.30-13.41.48:390][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.30-13.41.48:390][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.30-13.41.48:419][  0]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2022.12.30-13.41.48:419][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.30-13.41.48:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.30-13.41.48:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.30-13.41.48:420][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.30-13.41.48:420][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.30-13.41.48:420][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.30-13.41.48:420][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.30-13.41.48:420][  0]LogInit: FAudioDevice initialized.
+[2022.12.30-13.41.48:420][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.30-13.41.48:420][  0]LogInit: Texture streaming: Enabled
+[2022.12.30-13.41.48:421][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.30-13.41.48:421][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.30-13.41.48:422][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.30-13.41.48:422][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-13.41.48:422][  0]LogInit: Display: Game Engine Initialized.
+[2022.12.30-13.41.48:422][  0]LogInit: Display: Starting Game.
+[2022.12.30-13.41.48:423][  0]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2022.12.30-13.41.48:423][  0]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2022.12.30-13.41.48:423][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.12.30-13.41.48:423][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-13.41.48:423][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-13.41.48:424][  0]LogStreaming: Display: 0.005 ms (0.002+0.003) ms for processing 27/27 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/1 (126->126 tracked) packages and 0/26 (175->175 tracked) public exports.
+[2022.12.30-13.41.48:425][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.30-13.41.48:427][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.12.30-13.41.48:450][  0]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.30-13.41.48:450][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.12.30-13.41.48:450][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.30-13.41.48:451][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.12.30-13.41.48:451][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.30-13.41.48:451][  0]LogWorldPartition: Display: WorldPartition initialize took 21 us
+[2022.12.30-13.41.48:451][  0]LogLoad: Game class is 'MenuSystemGameMode'
+[2022.12.30-13.41.48:452][  0]LogWorld: Bringing World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.12.30-10.41.48
+[2022.12.30-13.41.48:452][  0]LogWorld: Bringing up level for play took: 0.000907
+[2022.12.30-13.41.48:455][  0]LogWorldPartition: New Streaming Source: PlayerController_2147482513 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.12.30-13.41.48:455][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.30-13.41.48:455][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2022.12.30-13.41.48:455][  0]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=900.000 Y=1110.000 Z=92.013,P=0.000000 Y=0.000000 R=0.000000
+[2022.12.30-13.41.48:455][  0]LogLoad: Took 0.032864 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
+[2022.12.30-13.41.48:456][  0]LogViewport: Scene viewport resized to 1920x1080, mode WindowedFullscreen.
+[2022.12.30-13.41.48:476][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.30-13.41.48:483][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2022.12.30-13.41.48:483][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=144700, PathHashSize=16, EntriesSize=19104, TotalSize=163820
+[2022.12.30-13.41.48:483][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2022.12.30-13.41.48:483][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2022.12.30-13.41.48:483][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.30-13.41.48:483][  0]LogLoad: (Engine Initialization) Total time: 0.89 seconds
+[2022.12.30-13.41.52:328][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.30-13.41.59:448][817]LogOnlineSession: STEAM: Found 48 lobbies, finalizing the search
+[2022.12.30-13.41.59:448][817]LogOnlineSession: STEAM: Search result 0: LobbyId=Lobby[0x186000087E3B0C2], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data cname 109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key cname value 109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data platform WIN
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data type 04109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key type value 04109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000087E3B0C2]'
+[2022.12.30-13.41.59:448][817]LogOnlineSession: STEAM: Search result 1: LobbyId=Lobby[0x186000088BC124B], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data cname 109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key cname value 109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data platform WIN
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key platform value WIN
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data type 04109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key type value 04109775243192384386
+[2022.12.30-13.41.59:448][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC124B]'
+[2022.12.30-13.41.59:448][817]LogOnlineSession: STEAM: Search result 2: LobbyId=Lobby[0x186000088BC162F], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:448][817]LogOnlineSession: STEAM: Search result 3: LobbyId=Lobby[0x186000088671E8A], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData /////wAAAAAAAAAAAAAA/////wEAAABZZW5uaWZlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEa+2JyACcABAADAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value /////wAAAAAAAAAAAAAA/////wEAAABZZW5uaWZlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEa+2JyACcABAADAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 192
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 192
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198412948082": {"Name":"Yennifer","HR":"39","MR":"4"}}
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198412948082": {"Name":"Yennifer","HR":"39","MR":"4"}}
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name DMzin
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value DMzin
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 011000011AFB6272
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 011000011AFB6272
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537292383
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537292383
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 1
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 1
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 21
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 21
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 39
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 39
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671E8A]'
+[2022.12.30-13.41.59:449][817]LogOnlineSession: STEAM: Search result 4: LobbyId=Lobby[0x186000088671983], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671983]'
+[2022.12.30-13.41.59:449][817]LogOnlineSession: STEAM: Search result 5: LobbyId=Lobby[0x186000088671F99], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AFllbm5pZmVyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARr7YnIAJwAEAD0DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAEsmOu6C4AAAAAY67oawAAAABjruhrAA8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQ==
+[2022.12.30-13.41.59:449][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AFllbm5pZmVyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAARr7YnIAJwAEAD0DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAEsmOu6C4AAAAAY67oawAAAABjruhrAA8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQ==
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 253
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 253
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {}
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name DMzin
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value DMzin
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 011000011AFB6272
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 011000011AFB6272
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 421471
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 421471
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 16
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 16
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 1210199
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 1210199
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 12
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 12
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 21
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 21
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 2
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 2
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 7
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 7
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671F99]'
+[2022.12.30-13.41.59:450][817]LogOnlineSession: STEAM: Search result 6: LobbyId=Lobby[0x186000088287167], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 131_b94c4a7c9e23dfaab2988a987801201dbee53f350256bb57774474671586ce59_4 lobby_password_ykssr_131
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 131_b94c4a7c9e23dfaab2988a987801201dbee53f350256bb57774474671586ce59_4 value lobby_password_ykssr_131
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088287167]'
+[2022.12.30-13.41.59:450][817]LogOnlineSession: STEAM: Search result 7: LobbyId=Lobby[0x186000088BC1386], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000c I46
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000c value I46
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000d I7
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000d value I7
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000010 I1
+[2022.12.30-13.41.59:450][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000010 value I1
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000011 I-1
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000011 value I-1
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000012 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000012 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000013 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000013 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000014 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000014 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000e I3544385890265674032
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000e value I3544385890265674032
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000f I3919929605782254385
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000f value I3919929605782254385
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000015 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000015 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000017 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000017 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000018 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000018 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000019 I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000019 value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001a I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001a value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001b I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001b value I0
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC1386]'
+[2022.12.30-13.41.59:451][817]LogOnlineSession: STEAM: Search result 8: LobbyId=Lobby[0x186000088287A52], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:451][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088287A52]'
+[2022.12.30-13.41.59:451][817]LogOnlineSession: STEAM: Search result 9: LobbyId=Lobby[0x1860000879D3965], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000c I45
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000c value I45
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000d I7
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000d value I7
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000010 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000010 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000011 I-1
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000011 value I-1
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000012 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000012 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000013 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000013 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000014 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000014 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000e I3544385890265674032
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000e value I3544385890265674032
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000f I3905804369754743344
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000f value I3905804369754743344
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000015 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000015 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000017 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000017 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000018 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000018 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000019 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000019 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001a I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001a value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001b I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001b value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000879D3965]'
+[2022.12.30-13.41.59:452][817]LogOnlineSession: STEAM: Search result 10: LobbyId=Lobby[0x186000088BC12C3], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000c I45
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000c value I45
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000d I7
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000d value I7
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000010 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000010 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000011 I-1
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000011 value I-1
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000012 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000012 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000013 I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000013 value I0
+[2022.12.30-13.41.59:452][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000014 I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000014 value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000e I3544385890265674032
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000e value I3544385890265674032
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000f I3905242540804289589
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000f value I3905242540804289589
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000015 I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000015 value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000017 I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000017 value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000018 I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000018 value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000019 I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000019 value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001a I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001a value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001b I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001b value I0
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC12C3]'
+[2022.12.30-13.41.59:453][817]LogOnlineSession: STEAM: Search result 11: LobbyId=Lobby[0x1860000882873DC], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000882873DC]'
+[2022.12.30-13.41.59:453][817]LogOnlineSession: STEAM: Search result 12: LobbyId=Lobby[0x186000088287DE8], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x000bba27, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:453][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088287DE8]'
+[2022.12.30-13.41.59:453][817]LogOnlineSession: STEAM: Search result 13: LobbyId=Lobby[0x186000087E3BEDA], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00022b88, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000087E3BEDA]'
+[2022.12.30-13.41.59:454][817]LogOnlineSession: STEAM: Search result 14: LobbyId=Lobby[0x186000088BC1457], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name R9
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value R9
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data net 5
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key net value 5
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data version v1.4a0 2617
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key version value v1.4a0 2617
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC1457]'
+[2022.12.30-13.41.59:454][817]LogOnlineSession: STEAM: Search result 15: LobbyId=Lobby[0x186000088671A49], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 131_44d8bf71fd01f75264b8a14715c5ff21c781d3a2f2df1904f93e313153445f16_4 lobby_password_ykssr_131
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 131_44d8bf71fd01f75264b8a14715c5ff21c781d3a2f2df1904f93e313153445f16_4 value lobby_password_ykssr_131
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671A49]'
+[2022.12.30-13.41.59:454][817]LogOnlineSession: STEAM: Search result 16: LobbyId=Lobby[0x186000087E3BF21], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00024728, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000087E3BF21]'
+[2022.12.30-13.41.59:454][817]LogOnlineSession: STEAM: Search result 17: LobbyId=Lobby[0x186000088671C0F], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data gamename doomliketavern
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key gamename value doomliketavern
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name Session
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value Session
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data z_heathenMode Session
+[2022.12.30-13.41.59:454][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key z_heathenMode value Session
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data z_heathenType 2
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key z_heathenType value 2
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 76561198049881466
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 76561198049881466
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671C0F]'
+[2022.12.30-13.41.59:455][817]LogOnlineSession: STEAM: Search result 18: LobbyId=Lobby[0x186000085767B54], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000085767B54]'
+[2022.12.30-13.41.59:455][817]LogOnlineSession: STEAM: Search result 19: LobbyId=Lobby[0x186000088671E37], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 1
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 1
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid 2f2d7e06-e7ca-4408-be6c-c9023b15d3de
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value 2f2d7e06-e7ca-4408-be6c-c9023b15d3de
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name joao entra (Luther_doPIX)
+[2022.12.30-13.41.59:455][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value joao entra (Luther_doPIX)
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90167650670462985
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90167650670462985
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671E37]'
+[2022.12.30-13.41.59:456][817]LogOnlineSession: STEAM: Search result 20: LobbyId=Lobby[0x186000088BC1616], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAASAAAAAAAAAEAAAAC/////wAAAABaw6kgVGFrZW11cmEAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEWgdCoAAoAAAAFAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAASAAAAAAAAAEAAAAC/////wAAAABaw6kgVGFrZW11cmEAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEWgdCoAAoAAAAFAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 192
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 192
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198337872040": {"Name":"Zￃﾩ Takemura","HR":"10","MR":"0"}}
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198337872040": {"Name":"Zￃﾩ Takemura","HR":"10","MR":"0"}}
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name dracnossomos
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value dracnossomos
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 011000011681D0A8
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 011000011681D0A8
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537292383
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537292383
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 2
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 2
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 21
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 21
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 10
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 10
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2022.12.30-13.41.59:456][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC1616]'
+[2022.12.30-13.41.59:457][817]LogOnlineSession: STEAM: Search result 21: LobbyId=Lobby[0x1860000879D3062], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00024728, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000879D3062]'
+[2022.12.30-13.41.59:457][817]LogOnlineSession: STEAM: Search result 22: LobbyId=Lobby[0x1860000886719F0], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 135_0bf2a812b9e74dd1842e60ed7ac7fa0b78d2792e17be61121039daa6d24fd825_6 lobby_password_ykssr_135
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 135_0bf2a812b9e74dd1842e60ed7ac7fa0b78d2792e17be61121039daa6d24fd825_6 value lobby_password_ykssr_135
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000886719F0]'
+[2022.12.30-13.41.59:457][817]LogOnlineSession: STEAM: Search result 23: LobbyId=Lobby[0x18600008867175F], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data hostID 63398FC504444F53
+[2022.12.30-13.41.59:457][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key hostID value 63398FC504444F53
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data isCrossplay 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key isCrossplay value 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name mundodosrapazes
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value mundodosrapazes
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data password 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key password value 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data serverType PlayFab user
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key serverType value PlayFab user
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data version 0.212.7
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key version value 0.212.7
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 76561198347114135
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 76561198347114135
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600008867175F]'
+[2022.12.30-13.41.59:458][817]LogOnlineSession: STEAM: Search result 24: LobbyId=Lobby[0x186000088BC12CE], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 1
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid 3c22990d-2cb0-4fdd-ac1d-825793fde4d5
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value 3c22990d-2cb0-4fdd-ac1d-825793fde4d5
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name exe14 (vegatoto89)
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value exe14 (vegatoto89)
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90167650945087494
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90167650945087494
+[2022.12.30-13.41.59:458][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC12CE]'
+[2022.12.30-13.41.59:458][817]LogOnlineSession: STEAM: Search result 25: LobbyId=Lobby[0x186000086D51091], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000086D51091]'
+[2022.12.30-13.41.59:459][817]LogOnlineSession: STEAM: Search result 26: LobbyId=Lobby[0x1860000869F5A93], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000869F5A93]'
+[2022.12.30-13.41.59:459][817]LogOnlineSession: STEAM: Search result 27: LobbyId=Lobby[0x186000088BC146B], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000c I45
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000c value I45
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000d I7
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000d value I7
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000010 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000010 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000011 I-1
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000011 value I-1
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000012 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000012 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000013 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000013 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000014 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000014 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000e I3544385890265674032
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000e value I3544385890265674032
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000f I3544726958822863665
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000f value I3544726958822863665
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000015 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000015 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000017 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000017 value I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000018 I0
+[2022.12.30-13.41.59:459][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000018 value I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000019 I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000019 value I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001a I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001a value I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001b I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001b value I0
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC146B]'
+[2022.12.30-13.41.59:460][817]LogOnlineSession: STEAM: Search result 28: LobbyId=Lobby[0x186000088671F92], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 130_5f22ffb6a0795b503a99a404cd6a95c1d5f9b55b5afe5a2388bce401397713fb_4 lobby_password_ykssr_130
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 130_5f22ffb6a0795b503a99a404cd6a95c1d5f9b55b5afe5a2388bce401397713fb_4 value lobby_password_ykssr_130
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671F92]'
+[2022.12.30-13.41.59:460][817]LogOnlineSession: STEAM: Search result 29: LobbyId=Lobby[0x1860000879D3914], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00024728, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000879D3914]'
+[2022.12.30-13.41.59:460][817]LogOnlineSession: STEAM: Search result 30: LobbyId=Lobby[0x18600007F80DC27], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x18600007F80DC27]'
+[2022.12.30-13.41.59:460][817]LogOnlineSession: STEAM: Search result 31: LobbyId=Lobby[0x186000088BC162C], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x000bba27, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:460][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC162C]'
+[2022.12.30-13.41.59:461][817]LogOnlineSession: STEAM: Search result 32: LobbyId=Lobby[0x186000086D51068], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000086D51068]'
+[2022.12.30-13.41.59:461][817]LogOnlineSession: STEAM: Search result 33: LobbyId=Lobby[0x1860000874CF80C], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00024728, GetBuildUniqueId() = 0x0129a2ee
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000874CF80C]'
+[2022.12.30-13.41.59:461][817]LogOnlineSession: STEAM: Search result 34: LobbyId=Lobby[0x186000088671DEC], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data cp 0
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key cp value 0
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data fl 9
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key fl value 9
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data li 4
+[2022.12.30-13.41.59:461][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key li value 4
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data ll 2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key ll value 2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data lt 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key lt value 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data mp 8
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key mp value 8
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name Sasha_Sura
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value Sasha_Sura
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data net 17
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key net value 17
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data version v1.4a0 2617
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key version value v1.4a0 2617
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671DEC]'
+[2022.12.30-13.41.59:462][817]LogOnlineSession: STEAM: Search result 35: LobbyId=Lobby[0x186000088287C6F], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:campaign L4D2C2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:campaign value L4D2C2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:chapter 3
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:chapter value 3
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:difficulty normal
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:difficulty value normal
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:dlcrequired 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:dlcrequired value 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:maxrounds 3
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:maxrounds value 3
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:addon 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:addon value 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:Author Valve
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:Author value Valve
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:builtin 1
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:builtin value 1
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:DisplayTitle #L4D360UI_CampaignName_C2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:DisplayTitle value #L4D360UI_CampaignName_C2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:InfectedOnly 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:InfectedOnly value 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:MissionFile missions/campaign2.txt
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:MissionFile value missions/campaign2.txt
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:SurvivorSet 2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:SurvivorSet value 2
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:Version 1
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:Version value 1
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:Website http://store.steampowered.com
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:Website value http://store.steampowered.com
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:MissionInfo:workshopid 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:MissionInfo:workshopid value 0
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data game:mode versus
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key game:mode value versus
+[2022.12.30-13.41.59:462][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:ModeInfo:addon 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:ModeInfo:addon value 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:ModeInfo:workshopid 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:ModeInfo:workshopid value 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Game:sk_versus 29
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Game:sk_versus value 29
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data game:state game
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key game:state value game
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Members:numMachines 2
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Members:numMachines value 2
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data members:numPlayers 2
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key members:numPlayers value 2
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data members:numSlots 8
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key members:numSlots value 8
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Options:createreason searchempty
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Options:createreason value searchempty
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data Options:server listen
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key Options:server value listen
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data system:access public
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key system:access value public
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data system:lock 
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key system:lock value 
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data System:network LIVE
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key System:network value LIVE
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088287C6F]'
+[2022.12.30-13.41.59:463][817]LogOnlineSession: STEAM: Search result 36: LobbyId=Lobby[0x186000088BC10DC], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AE5leXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQcKJlEACwAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAMHWOu6JkAAAAAY67o6wAAAABjrujrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAQ==
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AE5leXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAQcKJlEACwAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAMHWOu6JkAAAAAY67o6wAAAABjrujrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAQ==
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 253
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 253
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {}
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {}
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name zahdiel
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value zahdiel
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 01100001070A2651
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 01100001070A2651
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 421471
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 421471
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 16
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 16
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 210000
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 210000
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 1
+[2022.12.30-13.41.59:463][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 1
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 3
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 3
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 7
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 7
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 4
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 4
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 3
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 3
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC10DC]'
+[2022.12.30-13.41.59:464][817]LogOnlineSession: STEAM: Search result 37: LobbyId=Lobby[0x1860000882872FC], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAASAAAAAAAAAEAAAAA/////wEAAABBbGV4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEFfn/dACQAAgALAI8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAASAAAAAAAAAEAAAAA/////wEAAABBbGV4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEFfn/dACQAAgALAI8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 192
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 192
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198052442077": {"Name":"Alex","HR":"36","MR":"2"},"76561198082103662": {"Name":"Godofredo","HR":"35","MR":"2"}}
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198052442077": {"Name":"Alex","HR":"36","MR":"2"},"76561198082103662": {"Name":"Godofredo","HR":"35","MR":"2"}}
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name I'm the MAP!!!
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value I'm the MAP!!!
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 01100001057E7FDD
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 01100001057E7FDD
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537292383
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537292383
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 1
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 1
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 1
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value 1
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 36
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value 36
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:464][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 14
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 14
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000882872FC]'
+[2022.12.30-13.41.59:465][817]LogOnlineSession: STEAM: Search result 38: LobbyId=Lobby[0x186000088671A19], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data gamesparksID a626db80-7757-42ae-a5ea-3513635d4c90
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key gamesparksID value a626db80-7757-42ae-a5ea-3513635d4c90
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671A19]'
+[2022.12.30-13.41.59:465][817]LogOnlineSession: STEAM: Search result 39: LobbyId=Lobby[0x1860000886714A8], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LobbyType k_ELobbyTypeFriendsOnly
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LobbyType value k_ELobbyTypeFriendsOnly
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000886714A8]'
+[2022.12.30-13.41.59:465][817]LogOnlineSession: STEAM: Search result 40: LobbyId=Lobby[0x1860000882877DA], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 2
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 2
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid b2d4fc5d-90ca-42ac-95dd-fe3d29f4ebd5
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value b2d4fc5d-90ca-42ac-95dd-fe3d29f4ebd5
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name Panas (Yeremi)
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value Panas (Yeremi)
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90167649955932164
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90167649955932164
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000882877DA]'
+[2022.12.30-13.41.59:465][817]LogOnlineSession: STEAM: Search result 41: LobbyId=Lobby[0x1860000886717EE], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x1860000886717EE]'
+[2022.12.30-13.41.59:465][817]LogOnlineSession: STEAM: Search result 42: LobbyId=Lobby[0x186000088BC12EE], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 1
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 1
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid b965bce3-4ed6-41d3-9c54-2a71b96a1c34
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value b965bce3-4ed6-41d3-9c54-2a71b96a1c34
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name Unanse somos grupo :3 (fabriciocabanillasreyes)
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value Unanse somos grupo :3 (fabriciocabanillasreyes)
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:465][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90167650931140617
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90167650931140617
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC12EE]'
+[2022.12.30-13.41.59:466][817]LogOnlineSession: STEAM: Search result 43: LobbyId=Lobby[0x186000088BC13DB], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LDK_JOINRESULT 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LDK_JOINRESULT value 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LDK_OWNERONLINEID 76561198804844547
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LDK_OWNERONLINEID value 76561198804844547
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LDK_SEARCHEDRESULT 313130303030313332353734303033000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004C616765726F7364656D72646100000000000000000000000000000000000000000000000000000A0400000000000000000000000100FFFFFFFF000000000000E18B2F0002000300D7DC35658D94EB02
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LDK_SEARCHEDRESULT value 313130303030313332353734303033000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004C616765726F7364656D72646100000000000000000000000000000000000000000000000000000A0400000000000000000000000100FFFFFFFF000000000000E18B2F0002000300D7DC35658D94EB02
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LDK_SESSIONEXTRADATA 01100001325740030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LDK_SESSIONEXTRADATA value 01100001325740030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LSK_GAMENAME GAMENAME_RED
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LSK_GAMENAME value GAMENAME_RED
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LSK_NUMERICAL0 10
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LSK_NUMERICAL0 value 10
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LSK_NUMERICAL1 10
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LSK_NUMERICAL1 value 10
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LSK_NUMERICAL2 1
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LSK_NUMERICAL2 value 1
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data LSK_STRING0 01000000000000000000000000000000000100000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key LSK_STRING0 value 01000000000000000000000000000000000100000000000000000000
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC13DB]'
+[2022.12.30-13.41.59:466][817]LogOnlineSession: STEAM: Search result 44: LobbyId=Lobby[0x186000088BC14BF], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 130_eee4ea9c3a201ff64ca23edb97c5fc72b8213339622809c1800e600ee5865cd7_4 lobby_password_ykssr_130
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 130_eee4ea9c3a201ff64ca23edb97c5fc72b8213339622809c1800e600ee5865cd7_4 value lobby_password_ykssr_130
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088BC14BF]'
+[2022.12.30-13.41.59:466][817]LogOnlineSession: STEAM: Search result 45: LobbyId=Lobby[0x186000088671DA9], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data currentmembers 2
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key currentmembers value 2
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data guid e9de21c3-68ed-4a79-8ecf-8405ef24eb92
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key guid value e9de21c3-68ed-4a79-8ecf-8405ef24eb92
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name de chill (sergio.elme123)
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value de chill (sergio.elme123)
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data prefabdbversion 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key prefabdbversion value 95F414C35DF064A69E628D8344EE5FAC1D8406506A1C0929B8629C37EA18B5C4
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverIP 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverIP value 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverPort 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverPort value 0
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data __gameserverSteamID 90167650615221256
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key __gameserverSteamID value 90167650615221256
+[2022.12.30-13.41.59:466][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088671DA9]'
+[2022.12.30-13.41.59:466][817]LogOnlineSession: STEAM: Search result 46: LobbyId=Lobby[0x186000086D51261], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinaryData AAAAAAAAAAAAAAEAAAADAAAAAAAAAAFOZXl0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEHCiZRAAsAAAAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinaryData value AAAAAAAAAAAAAAEAAAADAAAAAAAAAAFOZXl0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAEHCiZRAAsAAAAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data BinarySize 192
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key BinarySize value 192
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data IsBehindNAT true
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key IsBehindNAT value true
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data MemberList {"76561198078371409": {"Name":"Neyt","HR":"11","MR":"0"}}
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key MemberList value {"76561198078371409": {"Name":"Neyt","HR":"11","MR":"0"}}
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data name zahdiel
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key name value zahdiel
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data OwnerId 01100001070A2651
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key OwnerId value 01100001070A2651
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey0 537292383
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey0 value 537292383
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey1 3
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey1 value 3
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey2 -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey2 value -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey3 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey3 value 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey4 -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey4 value -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey5 -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey5 value -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey6 -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey6 value -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKey7 -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKey7 value -1
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SearchKeyNum 8
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SearchKeyNum value 8
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateMax 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateMax value 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPrivateOpen 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPrivateOpen value 0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicMax 16
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicMax value 16
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data SlotPublicOpen 15
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key SlotPublicOpen value 15
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000086D51261]'
+[2022.12.30-13.41.59:467][817]LogOnlineSession: STEAM: Search result 47: LobbyId=Lobby[0x186000088287E4D], LobbyId.IsValid()=true, CSteamID(LobbyId).IsLobby()=true
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000c I45
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000c value I45
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 1000000d I7
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 1000000d value I7
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000010 I0
+[2022.12.30-13.41.59:467][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000010 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000011 I-1
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000011 value I-1
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000012 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000012 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000013 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000013 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 10000014 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 10000014 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000e I3544385890265674032
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000e value I3544385890265674032
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000000f I3774410350031878197
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000000f value I3774410350031878197
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000015 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000015 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000017 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000017 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000018 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000018 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 20000019 I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 20000019 value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001a I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001a value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unknown or unsupported data type from Steam key data 2000001b I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Failed to parse setting from key 2000001b value I0
+[2022.12.30-13.41.59:468][817]LogOnlineSession: Warning: STEAM: Unable to parse search result for lobby 'Lobby[0x186000088287E4D]'
+[2022.12.30-13.41.59:474][817]LogSlate: Took 0.004032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.30-13.41.59:741][856]LogOnlineSession: STEAM: Using P2P Data for Connection Serialization
+[2022.12.30-13.41.59:741][856]LogNet: Browse: steam.76561198175126830/Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.30-13.41.59:742][856]LogNet: Display: SteamNetDriver_2147482485 bound to port 7777
+[2022.12.30-13.41.59:742][856]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.30-13.41.59:742][856]LogOnline: STEAM: Adding user 76561198175126830:7777 from RegisterConnection
+[2022.12.30-13.41.59:742][856]LogNet: Game client on port 7777, rate 100000
+[2022.12.30-13.42.04:245][456]LogHandshake: SendChallengeResponse. Timestamp: 19.276346, Cookie: 211164249071185093013190172128031233040205055201215237204132
+[2022.12.30-13.42.04:245][456]LogHandshake: SendChallengeResponse. Timestamp: 19.276346, Cookie: 211164249071185093013190172128031233040205055201215237204132
+[2022.12.30-13.42.04:245][456]LogHandshake: SendChallengeResponse. Timestamp: 19.276346, Cookie: 211164249071185093013190172128031233040205055201215237204132
+[2022.12.30-13.42.04:245][456]LogHandshake: SendChallengeResponse. Timestamp: 19.276346, Cookie: 211164249071185093013190172128031233040205055201215237204132
+[2022.12.30-13.42.04:245][456]LogHandshake: SendChallengeResponse. Timestamp: 19.276346, Cookie: 211164249071185093013190172128031233040205055201215237204132
+[2022.12.30-13.42.04:290][462]LogNetVersion: MenuSystem 1.0.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1640907708)
+[2022.12.30-13.42.04:290][462]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 76561198175126830:7777, Name: SteamNetConnection_2147482484, Driver: PendingNetDriver SteamNetDriver_2147482485, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.30-13.42.04:399][477]LogNet: Welcomed by server (Level: /Game/ThirdPerson/Maps/Lobby, Game: /Script/MenuSystem.MenuSystemGameMode)
+[2022.12.30-13.42.04:399][477]LogLoad: LoadMap: steam.76561198175126830/Game/ThirdPerson/Maps/Lobby?game=/Script/MenuSystem.MenuSystemGameMode
+[2022.12.30-13.42.04:400][477]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.12.30-13.42.04:400][477]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-13.42.04:400][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-13.42.04:443][477]LogStreaming: Display: 0.028 ms (0.011+0.017) ms for processing 245/245 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 22/22 (149->127 tracked) packages and 25/223 (201->176 tracked) public exports.
+[2022.12.30-13.42.04:444][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.30-13.42.04:445][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.30-13.42.04:448][477]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.12.30-13.42.04:450][477]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2022.12.30-13.42.04:450][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.30-13.42.04:451][477]LogWorld: Bringing World /Game/ThirdPerson/Maps/Lobby.Lobby up for play (max tick rate 0) at 2022.12.30-10.42.04
+[2022.12.30-13.42.04:451][477]LogWorld: Bringing up level for play took: 0.000330
+[2022.12.30-13.42.04:452][477]LogLoad: Took 0.051927 seconds to LoadMap(/Game/ThirdPerson/Maps/Lobby)
+[2022.12.30-13.42.53:497][707]LogStreaming: Display: 0.005 ms (0.002+0.002) ms for processing 31/31 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (148->148 tracked) packages and 0/31 (198->198 tracked) public exports.
+[2022.12.30-13.42.53:635][725]LogWindowsDesktop: Alt-F4 pressed!
+[2022.12.30-13.42.53:635][725]LogSlate: Request Window 'MenuSystem (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.12.30-13.42.53:649][725]LogSlate: Window 'MenuSystem (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.12.30-13.42.53:652][725]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.12.30-13.42.53:655][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-13.42.53:655][725]LogEngine: All Windows Closed
+[2022.12.30-13.42.53:655][725]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.12.30-13.42.53:655][725]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.12.30-13.42.53:655][725]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.30-13.42.53:655][726]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.30-13.42.53:655][726]LogInit: Display: PreExit Game.
+[2022.12.30-13.42.53:658][726]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/Lobby
+[2022.12.30-13.42.53:658][726]LogNet: World NetDriver shutdown SteamNetDriver_2147482485 [GameNetDriver]
+[2022.12.30-13.42.53:658][726]LogNet: DestroyNamedNetDriver SteamNetDriver_2147482485 [GameNetDriver]
+[2022.12.30-13.42.53:658][726]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198175126830:7777, Name: SteamNetConnection_2147482484, Driver: GameNetDriver SteamNetDriver_2147482485, IsServer: NO, PC: PlayerController_2147482441, Owner: PlayerController_2147482441, UniqueId: Steam:BatmanQueVoa [0x110000103746381], Channels: 10, Time: 2022.12.30-13.42.53
+[2022.12.30-13.42.53:658][726]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198175126830:7777, Name: SteamNetConnection_2147482484, Driver: GameNetDriver SteamNetDriver_2147482485, IsServer: NO, PC: PlayerController_2147482441, Owner: PlayerController_2147482441, UniqueId: Steam:BatmanQueVoa [0x110000103746381]
+[2022.12.30-13.42.53:658][726]LogExit: GameNetDriver SteamNetDriver_2147482485 shut down
+[2022.12.30-13.42.53:658][726]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-13.42.53:659][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-13.42.54:399][726]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.30-13.42.54:399][726]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.30-13.42.54:399][726]LogAudio: Display: Audio Device unregistered from world 'Lobby'.
+[2022.12.30-13.42.54:422][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.30-13.42.54:422][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.30-13.42.54:426][726]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.30-13.42.54:427][726]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.30-13.42.54:427][726]LogExit: Preparing to exit.
+[2022.12.30-13.42.54:427][726]LogMoviePlayer: Shutting down movie player
+[2022.12.30-13.42.54:429][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-13.42.54:434][726]LogExit: Game engine shut down
+[2022.12.30-13.42.54:435][726]LogOnline: STEAM: Removing P2P Session Id: ΦIgãΘ [0x11000010CCE852E], Channel: 7777, IdleTime: 0.824
+[2022.12.30-13.42.54:436][726]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.30-13.42.54:450][726]LogExit: Object subsystem successfully closed.
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AutomationController (308)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AutomationWorker (306)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module Voice (304)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AIModule (302)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module GameplayDebugger (301)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module NavigationSystem (299)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (296)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (294)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module WebMMedia (292)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (290)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (288)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (286)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module CharacterAI (284)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module SessionServices (282)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module LiveCoding (280)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (278)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module MovieScene (276)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (274)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (272)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AudioMixer (271)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module AudioMixerCore (270)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (266)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module TypedElementFramework (264)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (262)
+[2022.12.30-13.42.54:455][726]LogModuleManager: Shutting down and abandoning module ProfilerService (260)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module TaskGraph (258)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module Synthesis (256)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ResonanceAudio (254)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (252)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (250)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GooglePAD (248)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module DynamicMesh (246)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (244)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (242)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GeometryCache (240)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (238)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module CableComponent (236)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AudioCapture (234)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (233)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AssetTags (230)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (228)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AppleImageUtils (226)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AndroidPermission (224)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (222)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module TemplateSequence (216)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module SequencerScripting (214)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module MediaCompositing (212)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ImgMedia (210)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (208)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (206)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ChaosNiagara (204)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module BackChannel (202)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AutomationUtils (200)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module UObjectPlugin (198)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (196)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ControlRigSpline (194)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module MenuSystem (192)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module SoundFields (190)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module SignificanceManager (188)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (186)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (184)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (182)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (181)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (178)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ActorSequence (176)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module UdpMessaging (174)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module TcpMessaging (172)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (170)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (168)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module Niagara (166)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module SignalProcessing (165)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module NiagaraCore (162)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module PBIK (160)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module FullBodyIK (158)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module FacialAnimation (156)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module AnimationSharing (154)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module GameplayCameras (152)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module IKRig (150)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module ControlRig (148)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module LevelSequence (147)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module Paper2D (144)
+[2022.12.30-13.42.54:505][726]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (142)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (140)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module AndroidFileServer (138)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (136)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module PacketHandler (134)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (132)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module MediaAssets (130)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module Overlay (128)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module FunctionalTesting (126)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module MessageLog (124)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module UMG (122)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module SlateReflector (120)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module Slate (118)
+[2022.12.30-13.42.54:506][726]LogModuleManager: Shutting down and abandoning module SlateCore (116)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module MRMesh (114)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module Messaging (112)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (110)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module Networking (108)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module Core (106)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module ImageWrapper (102)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module InputCore (100)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module Settings (98)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (96)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (95)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module Chaos (92)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module GeometryCore (91)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (88)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (87)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module AVEncoder (86)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module D3D12RHI (82)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (80)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (72)
+[2022.12.30-13.42.54:507][726]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2022.12.30-13.42.54:507][726]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2022.12.30-13.42.54:508][726]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2022.12.30-13.42.54:508][726]LogOnline: STEAM: Removing P2P Session Id: ΦIgãΘ [0x11000010CCE852E], Channel: -1, IdleTime: 0.897
+[2022.12.30-13.42.54:508][726]LogOnline: STEAM: Closing all communications with user 76561198175126830
+[2022.12.30-13.42.54:521][726]LogOnline: STEAM: 76561198175126830 has been removed.
+[2022.12.30-13.42.54:521][726]LogSteamShared: Unloading the Steam API...
+[2022.12.30-13.42.54:523][726]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2022.12.30-13.42.54:523][726]LogModuleManager: Shutting down and abandoning module SteamShared (66)
+[2022.12.30-13.42.54:523][726]LogSteamShared: Freeing the Steam Loaded Modules...
+[2022.12.30-13.42.54:523][726]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2022.12.30-13.42.54:523][726]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (58)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (56)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module Media (53)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (50)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (48)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module NiagaraShader (46)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module ChaosCloth (44)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module PixWinPlugin (38)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module AISupportModule (36)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (34)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (32)
+[2022.12.30-13.42.54:541][726]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (30)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module PlatformCrypto (28)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.12.30-13.42.54:542][726]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.12.30-13.42.54:543][726]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.12.30-13.42.54:543][726]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.12.30-13.42.54:543][726]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.12.30-13.42.54:543][726]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.12.30-13.42.54:553][726]LogD3D12RHI: Display: D3D12 ReleaseResources: 138 items to release
+[2022.12.30-13.42.54:553][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:553][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:553][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.30-13.42.54:554][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:555][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 120 x 102 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 120 x 102 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 960 x 816 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:556][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 34 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 34 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1920 x 1080 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1920 x 1080 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1920 x 1080 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:557][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:558][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:561][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.12.30-13.42.54:562][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.12.30-13.42.54:563][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:563][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:563][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.12.30-13.42.54:564][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:564][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:564][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:564][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2022.12.30-13.42.54:564][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 34 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 34 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:565][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:566][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:566][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:566][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:566][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 960 x 816 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 120 x 102 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 120 x 102 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 480 x 270 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 480 x 270 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.12.30-13.42.54:567][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 960 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 960 x 540 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1920 x 1080 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.12.30-13.42.54:568][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 960 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:569][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1920 x 1080 x 1, Mips: 2, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:569][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:569][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:569][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:569][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 960 x 540 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 960 x 540 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:570][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1920 x 1080 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1920 x 1080 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1920 x 1080 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1920 x 1080 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1920 x 1080 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.30-13.42.54:571][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.FilterDispatchParameters", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:572][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CulledObjectIndirectArguments", 65520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.30-13.42.54:573][726]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.30-13.42.54:631][726]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.12.30-13.42.54:631][726]LogExit: Exiting.
+[2022.12.30-13.42.54:657][726]Log file closed, 12/30/22 10:42:54
