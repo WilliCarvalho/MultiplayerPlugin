@@ -15,10 +15,11 @@ class MULTIPLAYERSESSIONS_API UMenuWidget : public UUserWidget
 	GENERATED_BODY()
 public:
 	UFUNCTION(BlueprintCallable)
-		void MenuSetup();
+		void MenuSetup(int32 NumberOfPublicConnections = 4, FString TypeOfMatch = FString(TEXT("FreeForAll")));
 
 protected:
 	virtual bool Initialize();
+	virtual void OnLevelRemovedFromWorld(ULevel* InLevel, UWorld* InWorld) override;
 
 private:
 	//To use BindWidget, the ame of the variable must be the same name of the Button or the thing u want to bind
@@ -32,5 +33,10 @@ private:
 	UFUNCTION()
 		void JoinButtonClicked();
 
+	void MenuTearDown();
+
 	class UMultiplayerSessionsSubsystem* MultiplayerSessionsSubsystem;
+
+	int32 NumPublicConnections{ 4 };
+	FString MatchType{ TEXT("FreeForAll") };
 };

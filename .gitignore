@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+MenuSystem/Builds/Windows/MenuSystem/Binaries/Win64/MenuSystem.pdb
+MenuSystem/Builds/Windows/MenuSystem/Content/Paks/MenuSystem-Windows.ucas
