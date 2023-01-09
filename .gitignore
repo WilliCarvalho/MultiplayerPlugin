@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 MenuSystem/Builds/Windows/MenuSystem/Binaries/Win64/MenuSystem.pdb
 MenuSystem/Builds/Windows/MenuSystem/Content/Paks/MenuSystem-Windows.ucas
+MenuSystem/Builds/Windows/Manifest_UFSFiles_Win64.txt
+MenuSystem/Builds/Windows/Manifest_NonUFSFiles_Win64.txt
+MenuSystem/Builds/Windows/Manifest_DebugFiles_Win64.txt
